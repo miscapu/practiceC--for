@@ -2,9 +2,9 @@
 using namespace std;
 
 int main(){
-    for (int n = 10; n > 0; --n) {
-        cout << n << ", ";
+    //use for:started m with type; started range; decreases or increasing
+    for(int m = 98; m > 10; --m){
+    cout << m << ", ";
     }
-    cout << "Despegue!\n";
-    return 0;
+    cout << "despegue!\n";
 }
